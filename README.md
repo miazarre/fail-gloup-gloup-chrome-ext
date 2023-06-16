@@ -1,6 +1,6 @@
 # Gloup Gloup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TEST 1 : Fail, let's try here : https://github.com/miazarre/gloup-gloup-chrome-ext
 
 ## Available Scripts
 
